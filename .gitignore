@@ -1,2 +1,5 @@
 config.py
 .vscode/
+data_for_indexing.json
+youtube_data
+indexdir
