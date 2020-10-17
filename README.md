@@ -2,8 +2,8 @@
 Part1: Requirements.txt added
 
 Part2: Google Search Data
-    -first update the config.py file 
-    -run se.py file
+-first update the config.py file 
+-run se.py file
 
 Part3: Youtube data
     -run program as:
