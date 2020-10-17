@@ -10,9 +10,9 @@ for path in paths:
     for i in data:
         
         dic = {
-            'Video_id' : i['id'],
-            'Title' :i['title'],
-            'Description': i['discription'],
+            'Video_id : '+i['id'],
+            'Title: '+i['title'],
+            'Description: ' +i['discription'],
             
         }
     results.append(dic)
