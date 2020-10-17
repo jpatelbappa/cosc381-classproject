@@ -3,3 +3,4 @@ config.py
 data_for_indexing.json
 youtube_data
 indexdir
+google_search.json
