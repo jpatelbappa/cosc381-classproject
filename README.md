@@ -66,4 +66,5 @@ Part6: search On whoosh index
 
 Part7: .gitignore is made 
 
-        
+  #query_on_whoosh
+  -run 'python3 query_on_whoosh.py home 2 1' will output a json-format result      
