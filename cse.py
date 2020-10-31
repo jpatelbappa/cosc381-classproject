@@ -22,4 +22,3 @@ if __name__ == '__main__':
        
     with open('google_search.json', 'w') as dump_file:
         json.dump(results, dump_file)
-
